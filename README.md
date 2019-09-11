@@ -1,5 +1,8 @@
 # BethanysPieShop
-MvcCore 2.2 Demo and course on Pluralsight
+### Building Your First ASP.NET Core 2 MVC Application
+#### MvcCore 2.2 Demo and course on Pluralsight
+
+In this course, you'll learn how to build a complete application with ASP.NET Core 2 MVC using Visual Studio 2017 in a practical, hands-on way.
 
 COURSE
 Building Your First ASP.NET Core 2 MVC Application
